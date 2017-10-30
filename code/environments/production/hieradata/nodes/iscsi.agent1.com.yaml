@@ -1,0 +1,17 @@
+---
+classes:
+   - iscsi
+#   - iscsi::config
+
+
+
+iscsi::initiatorname: {
+    'iscsi.agent1.com': {
+     initiatorname: 'hiera working',
+   
+}
+}
+
+#initiatorname:
+#  initiatorname: "hieraworking"
+

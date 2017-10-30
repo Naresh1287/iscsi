@@ -1,0 +1,6 @@
+---
+naresh: kumar
+
+#$InitiatorName  = hiera('InitiatorName')
+
+#motd::message: 'Hiera is working'

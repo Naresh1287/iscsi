@@ -1,0 +1,9 @@
+node 'iscsi.agent1.com' {  
+#           include apache2 
+#           include mysql
+#           include php
+#           include vagrant
+           include iscsi
+
+} 
+
